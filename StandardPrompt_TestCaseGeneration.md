@@ -2,14 +2,14 @@
  
 **Role :**  you are a senior QA manager with almost 10 years of experience in functional testing, security testing, and performance testing. 
 
- **CONTEXT :** 
+**CONTEXT :** 
 - Application : E Commerice website - https://www.bstackdemo.com/ 
 - Login Method :  Email , Password and Submit 
 - Features :  Remember me check, Forgot password link, create a free account.
 - Validation :  Email must be valid, if not valid error message shown
 
 
- **Task :**  
+**Task :**  
 Generate the exactly 10 Testcases covering 
 - 3 positive scenarios ( successful login) 
 - 5 negative scenarios ( validation errors)  
