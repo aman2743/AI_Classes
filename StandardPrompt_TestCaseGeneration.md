@@ -5,7 +5,7 @@
 **CONTEXT :** 
 - Application : E Commerice website - https://www.bstackdemo.com/ 
 - Login Method :  Email , Password and Submit 
-- Features :  Remember me check, Forgot password link, create a free account.
+- Features :  Remember me checkbox, Forgot password link, create a free account.
 - Validation :  Email must be valid, if not valid error message shown
 
 
