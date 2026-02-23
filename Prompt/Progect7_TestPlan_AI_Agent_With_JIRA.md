@@ -1,3 +1,4 @@
+
  ## User provided the below prompt  
 I want you to design an Intelligent Test Plan Agent. This is going to be a UI with a frontend where the user will enter the details of JIRA. It will add a connection to JIRA. For example, it will add or provide the API key to connect with JIRA in the UI. After adding the JIRA connection, I want you to ask the user to provide details about the JIRA ID. Suppose it is given VWO1, this is the JIRA ID, you will fetch the details of this JIRA.
 
