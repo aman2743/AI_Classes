@@ -7,4 +7,4 @@ I am going to share with you a test plan template. You need to create a test pla
 
 So you need to design this overall web application. It should run locally, where it will fetch the LLM that you are using from groq.com, or you should also allow the use of llama. So the user can add the **gpt-oss-120b** integration also in the settings, and that setting will allow the user to use a local LLM as well.
 
-## User provided the below prompt  
+## User provided the below prompt in chatGPT or KIMi to Imporove this prompt and got the below output  
